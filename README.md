@@ -30,7 +30,7 @@
 
 ### **目录**
 * C语言基础
-  * [变量](./01-C语言基础与进阶/Readme.md#-变量variable)
+  * [Bien](./01-C语言基础与进阶/Readme.md#-变量variable)
   * [数据类型](./01-C语言基础与进阶/Readme.md#-数据类型data-types)
   * [关键字](./01-C语言基础与进阶/Readme.md#-关键字keywords)
   * [常量](./01-C语言基础与进阶/Readme.md#-常量constant)
